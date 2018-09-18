@@ -1,0 +1,36 @@
+@font-face {
+    font-family: melankola;
+    src: url(../font/melankola.ttf);
+}
+
+.spacing {
+    margin-top: 0px;
+}
+
+.body {
+/*    font-family: melankola;*/
+    background-image: url("../img/leather_1/leather_1_@2X.png");
+/*    background: radial-gradient(snow, floralwhite, snow);*/
+    color: ;
+}
+
+.jumbotron {
+   background-color: white; 
+}
+
+footer {
+    color: black;
+/*
+    text-align: center;
+    background-image: url("../img/footer-lodyas-light.png");
+*/
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid black;
+    margin: 1em 0;
+    padding: 0;
+}
